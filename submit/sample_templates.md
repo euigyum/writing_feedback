@@ -13,7 +13,7 @@ Please follow the below rules and format.
 ### basic format
 
 <Topic #number>
-Topic: ___________
-Name: ________
+- Topic: ___________
+- Name: ________
 
  starts writing...
