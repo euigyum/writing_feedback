@@ -1,5 +1,7 @@
 # Writing Feedback Session (**English only**)
 
+Welcome! This open space is for everyone who wants to improve writing skills through writing workshop, tutoring, and consultation.
+
 ---------------------
 
 ### Description:
