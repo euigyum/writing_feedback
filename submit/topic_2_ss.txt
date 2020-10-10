@@ -3,10 +3,25 @@
 Topic: University students should be required to take basic science courses even if they are not science major.
 Name: ss
 
-There has been hot debate in recent times concerning whether university student should compulsorilly take basic science courses even though they are not science major. In relation to this, some people assert that every university student should take rudimentary science courses, whereas others hold the opposite view. As for my position, I stand on the side of the latter. It seems to me that university should not compel students to take science courses if they are not majroing science. This is on account of the concepts of health and career.
+There has been hot **a** debate in recent times concerning whether university student should **compulsorily** take basic science courses even though they are not science major. In relation to this, some people assert that every university student should take rudimentary science courses, whereas others hold the opposite view. As for my position, I stand on the side of the latter. It seems to me that university should not compel students to take science courses if they are not majroing **in** science. This is on account of the concepts of health and career.
 
-To begin with, taking mandatory basic science courses is too stressful. This is due to the fact that, unlike not taking these courses, if students take science courses in addition to their major courses, they are more likedly to be exhausted and feel burdensome. This situation will stress them out. In fact, stress is one of the primary factors of illnesses because it weakens the ability of the immune system in fighting diseases. For instance, my mother, a doctor at a general hospital in city, often tells me that many of her patients suffer adverse health effects from stress. They come to her for stress-related disorders. She has found the relationship between strerss and human diseases such as migraine, high bloodpressure, and insomnia. In this sense, it is healthful for students not to go to school.
+> one spelling error in 'compulsorily'
+> good.
 
-Also, focusing on major studies is more helpful for students. This is because, compared to taking science courses that are irrelevant to one's major, if students focus more on their major studies, they can develop expertise on their major field and communication skills. As modern society has become highly specialized, today's company are looking for employers having such qualities. Therefore, these are important to fight for jobs in highly competitive labor markets. For example, my father, the CEO of a company in Korea, once told me that a job interview typically precedes the hiring decision. He and other interviewers at the interview mainly look at the applicants' passion and expertise. This means that focusing on major is a sure way for students to prepare for the future.
+> In this question, you are also encouraged to introduce one idea that is against your argument.
+> For instance, you can write like this.
+> "Admittedly, taking basic science courses enables students to broaden their perspectives. ~"
+
+To begin with, taking mandatory basic science courses is too stressful. This is due to the fact that, unlike not taking these courses, if students take science courses in addition to their major courses, they are more _**likedly => likely**_ to be exhausted and feel burdensome. This situation will stress them out. In fact, stress is one of the primary factors of illnesses because it weakens the ability of the immune system in fighting diseases. For instance, my mother, a doctor at a general hospital in city, often tells me that many of her patients suffer adverse health effects from stress. They come to her for stress-related disorders. She has found the relationship between strerss and human diseases such as migraine, high _**bloodpressure => blood pressure**_ and insomnia. In this sense, **<#1>** it is healthful for students not to go to school.
+
+> In <#1> consider to add the following sentence.
+> "if the university does not force students to take mandatory science courses."
+
+Also, focusing on major studies is more helpful for students. _**(consider to change like this) "Furthermore, focusing on major is helpful for the students' career."**_ This is because, compared to taking science courses that are irrelevant to one's major, if students focus more on their major studies, they can develop expertise on their major field and communication skills. As modern society has become highly specialized, today's _**company => companies**_ are looking for _**employers => employees**_ having such qualities. Therefore, these are important to fight for jobs in highly competitive labor markets. For example, my father, the CEO of a company in Korea, once told me that a job interview typically precedes the hiring decision. He and other interviewers at the interview mainly look at the applicants' passion and expertise. This _**means => (consider to change as) indicates**_ that focusing on major is a sure way for students to prepare for the future.
+
+> employer <=> employee
+> interviewer <=> interviewee
 
 In conclusion, some might argue that university should require students to take basic science courses regardless of their majors. Nevertheless, taking all of these things into account, it is clear that the university should not force students to take science courses, if they are not science major. The examples of health and employment strongly support my argument.
+
+> Overall, it is well-organized writing with good supporting details.
